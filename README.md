@@ -79,4 +79,5 @@ DATASET USED
 
 DASHBOARD 
  - <a href="https://github.com/akshya408/sales_financial_dashbord/blob/main/sales%20financial%20dashboard.pbix">DASHBOARD</a>
- 
+ ![sales_dashboard_photo](https://github.com/user-attachments/assets/76e8a801-e2cc-48ac-b9d5-3fc0cd04da43)
+
