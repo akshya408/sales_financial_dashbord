@@ -1,4 +1,4 @@
-📊 Sales_Financial_Dashboard – Summary Storyboard
+#📊 Sales_Financial_Dashboard – Summary Storyboard
 1. Header / Title Section
 Dashboard Title: Sales_Financial_Dashboard
 
